@@ -9,12 +9,12 @@ Autolysis is a sophisticated analysis pipeline that streamlines the entire proce
 
 ## Key Features
 
-- **Automated Exploratory Analysis** - Generate statistical summaries and identify patterns
-- **Advanced Analytics** - Outlier detection and clustering
-- **Interactive Visualizations** - Automatically generate relevant plots based on input characteristics
-- **AI-Powered Insights** - Leverage Google's Gemini API to suggest additional analyses and interpretations
-- **Comprehensive Reporting** - Create markdown reports with embedded visualizations
-
+- **Automated Exploratory Analysis** - Produce statistical overviews and uncover key data patterns
+- **Advanced Analytical Techniques** - Implement clustering and outlier detection
+- **Smart Visualizations** - Dynamically generate appropriate plots tailored to the input data
+- **AI-Enhanced Insights** - Utilize Google’s Gemini API to recommend further analyses and interpretations
+- **Detailed Reporting** - Generate markdown reports complete with integrated visualizations
+  
 ## Technologies Used
 
 - **Python** - Core programming language
@@ -23,7 +23,7 @@ Autolysis is a sophisticated analysis pipeline that streamlines the entire proce
 - **AI Integration** - Google's Gemini API for intelligent insight generation
 - **Environment Management** - dotenv for configuration
 
-## How It Works
+## Working
 
 1. **Input Ingestion**: Load and preprocess CSV files from any source
 2. **Statistical Analysis**: Calculate descriptive statistics and identify patterns
@@ -43,26 +43,26 @@ python autolysis.py your_input.csv
 ```
 
 ## Technical Highlights
-Smart Feature Selection - Automatically selects the most informative columns for visualization
+Intelligent Feature Selection – Automatically identifies and prioritizes the most relevant columns for visualization.
 
-Adaptive Visualization - Adjusts plot types based on input characteristics
+Dynamic Visualization – Selects and adapts plot types based on the nature of the input data.
 
-Robust Error Handling - Graceful degradation when optimal analysis isn't possible
+Resilient Error Management – Ensures graceful handling when ideal analysis isn't feasible.
 
-Optimized Performance - Efficient processing for large files
+High-Efficiency Processing – Optimized to handle large datasets with speed and precision.
 
-Extensible Architecture - Easily add new analysis modules or visualization types
+Modular & Scalable Design – Allows seamless integration of new analysis modules and visualization options.
 
 ## Future Enhancements
-Integration with additional ML models for predictive analytics
+Integration with a broader range of machine learning models for advanced predictive analytics
 
-Interactive web dashboard for exploring results
+Development of an interactive web-based dashboard for result exploration
 
-Support for more input formats (databases, APIs)
+Expanded input format compatibility, including databases and APIs
 
-Automated time-series analysis
+Automated analysis capabilities for time-series data
 
-Natural language query interface
+Natural language interface for querying and interacting with results
 
 # Project Structure
 ```
