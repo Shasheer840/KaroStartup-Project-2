@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-Autolysis is an advanced analysis pipeline that automates the entire process from input ingestion to insight generation. This tool integrates machine learning algorithms with AI-powered analysis to transform raw inputs into comprehensive visual reports with minimal user intervention.
+Autolysis is a sophisticated analysis pipeline that streamlines the entire process from data ingestion to insight generation. By integrating machine learning algorithms with AI-driven analytics, it converts raw inputs into detailed visual reports with minimal user effort.
 
 ## Key Features
 
