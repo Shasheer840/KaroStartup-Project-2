@@ -9,11 +9,12 @@ Autolysis is a sophisticated analysis pipeline that streamlines the entire proce
 
 ## Key Features
 
-- **Automated Exploratory Analysis** - Produce statistical overviews and uncover key data patterns
 - **Advanced Analytical Techniques** - Implement clustering and outlier detection
-- **Smart Visualizations** - Dynamically generate appropriate plots tailored to the input data
+- **Automated Exploratory Analysis** - Produce statistical overviews and uncover key data patterns
 - **AI-Enhanced Insights** - Utilize Google’s Gemini API to recommend further analyses and interpretations
+- **Smart Visualizations** - Dynamically generate appropriate plots tailored to the input data
 - **Detailed Reporting** - Generate markdown reports complete with integrated visualizations
+  
   
 ## Technologies Used
 
